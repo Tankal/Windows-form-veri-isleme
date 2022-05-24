@@ -1,0 +1,17 @@
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\bin\Debug\net6.0-windows\EnmosStaj.exe
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\bin\Debug\net6.0-windows\EnmosStaj.deps.json
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\bin\Debug\net6.0-windows\EnmosStaj.runtimeconfig.json
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\bin\Debug\net6.0-windows\EnmosStaj.dll
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\bin\Debug\net6.0-windows\EnmosStaj.pdb
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\obj\Debug\net6.0-windows\EnmosStaj.csproj.AssemblyReference.cache
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\obj\Debug\net6.0-windows\EnmosStaj.Form1.resources
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\obj\Debug\net6.0-windows\EnmosStaj.csproj.GenerateResource.cache
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\obj\Debug\net6.0-windows\EnmosStaj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\obj\Debug\net6.0-windows\EnmosStaj.AssemblyInfoInputs.cache
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\obj\Debug\net6.0-windows\EnmosStaj.AssemblyInfo.cs
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\obj\Debug\net6.0-windows\EnmosStaj.csproj.CoreCompileInputs.cache
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\obj\Debug\net6.0-windows\EnmosStaj.dll
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\obj\Debug\net6.0-windows\refint\EnmosStaj.dll
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\obj\Debug\net6.0-windows\EnmosStaj.pdb
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\obj\Debug\net6.0-windows\EnmosStaj.genruntimeconfig.cache
+C:\Users\tanka\source\repos\EnmosStaj\EnmosStaj\obj\Debug\net6.0-windows\ref\EnmosStaj.dll
